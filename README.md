@@ -1,7 +1,7 @@
 # upload
 
 ## 主要用到的东西
- - vue用于前端框架...
+ - vue用于前端框架...........
  - [element ui](https://element.eleme.cn/#/zh-CN/component/installation)和[ant-design-vue](https://vue.ant.design/docs/vue/introduce-cn/)用于前端样式
  - [vue cli3](https://cli.vuejs.org/zh/)
  - [vue router](https://router.vuejs.org/zh/installation.html)
