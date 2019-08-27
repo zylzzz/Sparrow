@@ -8,7 +8,7 @@
           </p>
         </div>
       </div>
-
+<!-- ..... -->
       <div class="grid-content" v-if="hava_infot">
         <div>
           <p style="font-size:20px;">
